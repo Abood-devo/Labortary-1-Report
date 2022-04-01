@@ -1,0 +1,4 @@
+The parent process ID is 45285
+The parent’s parent process ID is 8456
+The child process ID is 45287
+The child’s parent process ID is 45285

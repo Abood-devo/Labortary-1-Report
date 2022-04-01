@@ -1,0 +1,26 @@
+exp3_1
+exp3_1.c
+exp3_1.txt
+exp3_2
+exp3_2.c
+exp3_2.txt
+exp3_3
+exp3_3.c
+exp3_3.txt
+exp3_4
+exp3_4.c
+exp3_4.txt
+exp3_5
+exp3_5.c
+exp3_5.txt
+exp3_6
+exp3_6.c
+exp3_6.txt
+exp3_7
+exp3_7.c
+exp3_7.txt
+exp3_8
+exp3_8.c
+exp3_9
+exp3_9.c
+programs outputs
